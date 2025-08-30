@@ -1,0 +1,48 @@
+  <!-- <form action="" class="mx-auto bg-white">
+              <div class="text-center py-3">
+                <h4>Get a Quick Offer</h4>
+                <p>We Make your cargo transport simple</p>
+              </div>
+              <div class="options px-2 d-flex flex-column align-items-center ">
+                <label for="" class="text-uppercase align-self-start"
+                  >Truckload</label
+                >
+                <br />
+                <select name="" id="" class="w-75 p-3" style="outline: none">
+                  <option value="">Select</option>
+                  <option value="">Category 1</option>
+                  <option value="">Category 2</option>
+                  <option value="">Category 3</option>
+                </select>
+              </div>
+              <div
+                class="options p-2 d-flex flex-column align-items-center my-4"
+              >
+                <label for="" class="text-uppercase align-self-start"
+                  >Commodity</label
+                >
+                <br />
+                <select name="" id="" class="w-75 p-3" style="outline: none">
+                  <option value="">Select</option>
+                  <option value="">Year</option>
+                  <option value="">Week</option>
+                  <option value="">Days 3</option>
+                </select>
+              </div>
+              <div class="options p-2 d-flex flex-column align-items-center">
+                <label for="" class="text-uppercase align-self-start"
+                  >Distance (Miles)</label
+                >
+                <br />
+                
+                <input
+                  type="text"
+                  placeholder="Write Distance"
+                  class="p-3 w-75"
+                  style="outline: none"
+                />
+              </div>
+              <p class="pb-5 fs-5 text-center fw-bold mt-4">
+                Estimate Cost: <span class="text-danger fs-6">$10,400.00</span>
+              </p>
+            </form> -->
